@@ -1,0 +1,2564 @@
+{
+ "blank": {
+  "banner": "\u26a0 Enter your Workshop levels on Player Profile (or import your export) - recommendations stay hidden until then.",
+  "buy": [
+   "Waiting for Workshop levels"
+  ],
+  "buy_gain": [],
+  "buy_conf": [],
+  "research": [
+   "Waiting for profile data"
+  ],
+  "save": "Nothing to rank yet.",
+  "bottleneck": [
+   "unknown",
+   "unknown",
+   "unknown",
+   "unknown"
+  ],
+  "counter": "None - top picks follow directly from your goal.",
+  "roadmap": [],
+  "roadmap_status": "Workshop levels missing",
+  "live_checks": [
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS"
+  ],
+  "errors": 0,
+  "formulas": 102495
+ },
+ "early-farming": {
+  "banner": "\u26a0 HYPOTHETICAL SAMPLE - Early game is loaded so you can see the tool working. Replace it with your own data (Import sheet or Player Profile).",
+  "buy": [
+   "Multishot Targets",
+   "Multishot Chance",
+   "Damage / Meter",
+   "Coins / Kill Bonus",
+   "Coins / Wave"
+  ],
+  "buy_gain": [
+   "+0.470% coins",
+   "+0.095% coins",
+   "+0.067% coins",
+   "+0.643% coins",
+   "+0.323% coins"
+  ],
+  "buy_conf": [
+   "High",
+   "High",
+   "Medium",
+   "High",
+   "High"
+  ],
+  "research": [
+   "Game Speed",
+   "Coins / Kill Bonus",
+   "Coins / Wave",
+   "Critical Factor",
+   "Damage / Meter"
+  ],
+  "save": "\u2714 No need to save: your top-ranked upgrade (Multishot Targets) is affordable now.",
+  "bottleneck": [
+   "LIMITING",
+   "not limiting",
+   "measured",
+   "TIME-LIMITED"
+  ],
+  "counter": "Farming is selected but the top buy is a combat stat: your runs end by death, so more waves earn more coins than the next economy upgrade.",
+  "roadmap": [
+   [
+    "Multishot Targets",
+    "1 \u2192 3",
+    "+0.922% coins"
+   ],
+   [
+    "Multishot Chance",
+    "10 \u2192 21",
+    "+1.791% coins"
+   ],
+   [
+    "Multishot Targets",
+    "3 \u2192 4",
+    "+0.755% coins"
+   ],
+   [
+    "Damage / Meter",
+    "15 \u2192 16",
+    "+0.067% coins"
+   ],
+   [
+    "Multishot Chance",
+    "21 \u2192 22",
+    "+0.172% coins"
+   ],
+   [
+    "Coins / Kill Bonus",
+    "40 \u2192 41",
+    "+0.643% coins"
+   ],
+   [
+    "Multishot Chance",
+    "22 \u2192 23",
+    "+0.169% coins"
+   ],
+   [
+    "Damage / Meter",
+    "16 \u2192 17",
+    "+0.066% coins"
+   ],
+   [
+    "Coins / Wave",
+    "30 \u2192 31",
+    "+0.321% coins"
+   ],
+   [
+    "Coins / Kill Bonus",
+    "41 \u2192 43",
+    "+1.273% coins"
+   ],
+   [
+    "Coins / Wave",
+    "31 \u2192 32",
+    "+0.315% coins"
+   ],
+   [
+    "Multishot Chance",
+    "23 \u2192 24",
+    "+0.166% coins"
+   ],
+   [
+    "Coins / Kill Bonus",
+    "43 \u2192 44",
+    "+0.627% coins"
+   ],
+   [
+    "Damage / Meter",
+    "17 \u2192 18",
+    "+0.064% coins"
+   ],
+   [
+    "Coins / Wave",
+    "32 \u2192 33",
+    "+0.313% coins"
+   ],
+   [
+    "Coins / Kill Bonus",
+    "44 \u2192 45",
+    "+0.621% coins"
+   ],
+   [
+    "Multishot Chance",
+    "24 \u2192 25",
+    "+0.164% coins"
+   ],
+   [
+    "Coins / Wave",
+    "33 \u2192 34",
+    "+0.310% coins"
+   ],
+   [
+    "Coins / Kill Bonus",
+    "45 \u2192 46",
+    "+0.615% coins"
+   ],
+   [
+    "Damage / Meter",
+    "18 \u2192 19",
+    "+0.063% coins"
+   ]
+  ],
+  "roadmap_status": "Ready \u00b7 20 steps",
+  "live_checks": [
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS"
+  ],
+  "errors": 0,
+  "formulas": 102495
+ },
+ "early-tournament": {
+  "banner": "\u26a0 HYPOTHETICAL SAMPLE - Early game is loaded so you can see the tool working. Replace it with your own data (Import sheet or Player Profile).",
+  "buy": [
+   "Multishot Targets",
+   "Multishot Chance",
+   "Damage / Meter",
+   "Defense %",
+   "Critical Chance"
+  ],
+  "buy_gain": [
+   "+1.04 waves",
+   "+0.21 waves",
+   "+0.15 waves",
+   "+0.22 waves",
+   "+0.42 waves"
+  ],
+  "buy_conf": [
+   "Low",
+   "Low",
+   "Low",
+   "Low",
+   "Low"
+  ],
+  "research": [
+   "Critical Factor",
+   "Damage / Meter",
+   "Range",
+   "Defense %",
+   "Defense Absolute"
+  ],
+  "save": "\u2714 No need to save: your top-ranked upgrade (Multishot Targets) is affordable now.",
+  "bottleneck": [
+   "unknown",
+   "unknown",
+   "measured",
+   "TIME-LIMITED"
+  ],
+  "counter": "None - top picks follow directly from your goal.",
+  "roadmap": [
+   [
+    "Multishot Targets",
+    "1 \u2192 3",
+    "+2.03 waves"
+   ],
+   [
+    "Multishot Chance",
+    "10 \u2192 21",
+    "+3.92 waves"
+   ],
+   [
+    "Multishot Targets",
+    "3 \u2192 4",
+    "+1.66 waves"
+   ],
+   [
+    "Damage / Meter",
+    "15 \u2192 16",
+    "+0.15 waves"
+   ],
+   [
+    "Multishot Chance",
+    "21 \u2192 23",
+    "+0.75 waves"
+   ],
+   [
+    "Damage / Meter",
+    "16 \u2192 17",
+    "+0.15 waves"
+   ],
+   [
+    "Multishot Chance",
+    "23 \u2192 24",
+    "+0.37 waves"
+   ],
+   [
+    "Damage / Meter",
+    "17 \u2192 18",
+    "+0.14 waves"
+   ],
+   [
+    "Multishot Chance",
+    "24 \u2192 25",
+    "+0.36 waves"
+   ],
+   [
+    "Damage / Meter",
+    "18 \u2192 19",
+    "+0.14 waves"
+   ],
+   [
+    "Multishot Chance",
+    "25 \u2192 27",
+    "+0.71 waves"
+   ],
+   [
+    "Defense %",
+    "25 \u2192 26",
+    "+0.22 waves"
+   ],
+   [
+    "Damage / Meter",
+    "19 \u2192 20",
+    "+0.14 waves"
+   ],
+   [
+    "Defense %",
+    "26 \u2192 27",
+    "+0.22 waves"
+   ],
+   [
+    "Multishot Chance",
+    "27 \u2192 28",
+    "+0.34 waves"
+   ],
+   [
+    "Multishot Targets",
+    "4 \u2192 5",
+    "+1.84 waves"
+   ],
+   [
+    "Multishot Chance",
+    "28 \u2192 29",
+    "+0.38 waves"
+   ],
+   [
+    "Critical Chance",
+    "35 \u2192 36",
+    "+0.42 waves"
+   ],
+   [
+    "Defense %",
+    "27 \u2192 28",
+    "+0.22 waves"
+   ],
+   [
+    "Damage / Meter",
+    "20 \u2192 21",
+    "+0.13 waves"
+   ]
+  ],
+  "roadmap_status": "Ready \u00b7 20 steps",
+  "live_checks": [
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS"
+  ],
+  "errors": 0,
+  "formulas": 102495
+ },
+ "early-milestones": {
+  "banner": "\u26a0 HYPOTHETICAL SAMPLE - Early game is loaded so you can see the tool working. Replace it with your own data (Import sheet or Player Profile).",
+  "buy": [
+   "Multishot Targets",
+   "Multishot Chance",
+   "Damage / Meter",
+   "Critical Chance",
+   "Critical Factor"
+  ],
+  "buy_gain": [
+   "+2.92 waves",
+   "+0.59 waves",
+   "+0.42 waves",
+   "+1.17 waves",
+   "+0.97 waves"
+  ],
+  "buy_conf": [
+   "High",
+   "High",
+   "Medium",
+   "High",
+   "High"
+  ],
+  "research": [
+   "Critical Factor",
+   "Damage / Meter",
+   "Range"
+  ],
+  "save": "\u2714 No need to save: your top-ranked upgrade (Multishot Targets) is affordable now.",
+  "bottleneck": [
+   "LIMITING",
+   "not limiting",
+   "measured",
+   "TIME-LIMITED"
+  ],
+  "counter": "None - top picks follow directly from your goal.",
+  "roadmap": [
+   [
+    "Multishot Targets",
+    "1 \u2192 3",
+    "+5.71 waves"
+   ],
+   [
+    "Multishot Chance",
+    "10 \u2192 21",
+    "+11.06 waves"
+   ],
+   [
+    "Multishot Targets",
+    "3 \u2192 4",
+    "+4.69 waves"
+   ],
+   [
+    "Damage / Meter",
+    "15 \u2192 16",
+    "+0.42 waves"
+   ],
+   [
+    "Multishot Chance",
+    "21 \u2192 23",
+    "+2.12 waves"
+   ],
+   [
+    "Damage / Meter",
+    "16 \u2192 17",
+    "+0.41 waves"
+   ],
+   [
+    "Multishot Chance",
+    "23 \u2192 24",
+    "+1.03 waves"
+   ],
+   [
+    "Damage / Meter",
+    "17 \u2192 18",
+    "+0.40 waves"
+   ],
+   [
+    "Multishot Chance",
+    "24 \u2192 25",
+    "+1.02 waves"
+   ],
+   [
+    "Damage / Meter",
+    "18 \u2192 19",
+    "+0.39 waves"
+   ],
+   [
+    "Multishot Chance",
+    "25 \u2192 27",
+    "+1.99 waves"
+   ],
+   [
+    "Damage / Meter",
+    "19 \u2192 20",
+    "+0.38 waves"
+   ],
+   [
+    "Multishot Chance",
+    "27 \u2192 28",
+    "+0.97 waves"
+   ],
+   [
+    "Multishot Targets",
+    "4 \u2192 5",
+    "+5.20 waves"
+   ],
+   [
+    "Multishot Chance",
+    "28 \u2192 29",
+    "+1.06 waves"
+   ],
+   [
+    "Critical Chance",
+    "35 \u2192 36",
+    "+1.17 waves"
+   ],
+   [
+    "Damage / Meter",
+    "20 \u2192 21",
+    "+0.38 waves"
+   ],
+   [
+    "Multishot Chance",
+    "29 \u2192 30",
+    "+1.05 waves"
+   ],
+   [
+    "Critical Chance",
+    "36 \u2192 37",
+    "+1.15 waves"
+   ],
+   [
+    "Multishot Chance",
+    "30 \u2192 31",
+    "+1.03 waves"
+   ]
+  ],
+  "roadmap_status": "Ready \u00b7 20 steps",
+  "live_checks": [
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS"
+  ],
+  "errors": 0,
+  "formulas": 102495
+ },
+ "early-balanced": {
+  "banner": "\u26a0 HYPOTHETICAL SAMPLE - Early game is loaded so you can see the tool working. Replace it with your own data (Import sheet or Player Profile).",
+  "buy": [
+   "Multishot Targets",
+   "Multishot Chance",
+   "Damage / Meter",
+   "Critical Chance",
+   "Critical Factor"
+  ],
+  "buy_gain": [
+   "+1.171% growth",
+   "+0.237% growth",
+   "+0.167% growth",
+   "+0.469% growth",
+   "+0.388% growth"
+  ],
+  "buy_conf": [
+   "High",
+   "High",
+   "Medium",
+   "High",
+   "High"
+  ],
+  "research": [
+   "Game Speed",
+   "Labs Speed",
+   "Workshop Defense Discount",
+   "Critical Factor",
+   "Coins / Kill Bonus"
+  ],
+  "save": "\u2714 No need to save: your top-ranked upgrade (Multishot Targets) is affordable now.",
+  "bottleneck": [
+   "LIMITING",
+   "not limiting",
+   "measured",
+   "TIME-LIMITED"
+  ],
+  "counter": "None - top picks follow directly from your goal.",
+  "roadmap": [
+   [
+    "Multishot Targets",
+    "1 \u2192 3",
+    "+2.304% growth"
+   ],
+   [
+    "Multishot Chance",
+    "10 \u2192 21",
+    "+4.506% growth"
+   ],
+   [
+    "Multishot Targets",
+    "3 \u2192 4",
+    "+1.885% growth"
+   ],
+   [
+    "Damage / Meter",
+    "15 \u2192 16",
+    "+0.167% growth"
+   ],
+   [
+    "Multishot Chance",
+    "21 \u2192 23",
+    "+0.848% growth"
+   ],
+   [
+    "Damage / Meter",
+    "16 \u2192 17",
+    "+0.164% growth"
+   ],
+   [
+    "Multishot Chance",
+    "23 \u2192 24",
+    "+0.413% growth"
+   ],
+   [
+    "Damage / Meter",
+    "17 \u2192 18",
+    "+0.160% growth"
+   ],
+   [
+    "Multishot Chance",
+    "24 \u2192 25",
+    "+0.407% growth"
+   ],
+   [
+    "Damage / Meter",
+    "18 \u2192 19",
+    "+0.156% growth"
+   ],
+   [
+    "Multishot Chance",
+    "25 \u2192 27",
+    "+0.797% growth"
+   ],
+   [
+    "Damage / Meter",
+    "19 \u2192 20",
+    "+0.153% growth"
+   ],
+   [
+    "Multishot Chance",
+    "27 \u2192 28",
+    "+0.389% growth"
+   ],
+   [
+    "Multishot Targets",
+    "4 \u2192 5",
+    "+2.093% growth"
+   ],
+   [
+    "Multishot Chance",
+    "28 \u2192 29",
+    "+0.424% growth"
+   ],
+   [
+    "Critical Chance",
+    "35 \u2192 36",
+    "+0.469% growth"
+   ],
+   [
+    "Damage / Meter",
+    "20 \u2192 21",
+    "+0.150% growth"
+   ],
+   [
+    "Multishot Chance",
+    "29 \u2192 30",
+    "+0.418% growth"
+   ],
+   [
+    "Critical Chance",
+    "36 \u2192 37",
+    "+0.461% growth"
+   ],
+   [
+    "Multishot Chance",
+    "30 \u2192 31",
+    "+0.411% growth"
+   ]
+  ],
+  "roadmap_status": "Ready \u00b7 20 steps",
+  "live_checks": [
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS"
+  ],
+  "errors": 0,
+  "formulas": 102495
+ },
+ "mid-farming": {
+  "banner": "\u26a0 HYPOTHETICAL SAMPLE - Mid game is loaded so you can see the tool working. Replace it with your own data (Import sheet or Player Profile).",
+  "buy": [
+   "Health",
+   "Max Recovery",
+   "Wall Health",
+   "Defense Absolute"
+  ],
+  "buy_gain": [
+   "+0.012% coins",
+   "+0.039% coins",
+   "+0.001% coins",
+   "+0.000% coins"
+  ],
+  "buy_conf": [
+   "High",
+   "High",
+   "High",
+   "High"
+  ],
+  "research": [
+   "Black Hole Coin Bonus",
+   "Game Speed",
+   "Golden Tower Bonus",
+   "Coins / Kill Bonus",
+   "Wall Health"
+  ],
+  "save": "\u2714 No need to save: your top-ranked upgrade (Health) is affordable now.",
+  "bottleneck": [
+   "not limiting",
+   "LIMITING",
+   "measured",
+   "IDLE SLOT"
+  ],
+  "counter": "Farming is selected but the top buy is a combat stat: your runs end by death, so more waves earn more coins than the next economy upgrade.",
+  "roadmap": [
+   [
+    "Health",
+    "2600 \u2192 4643",
+    "+18.987% coins"
+   ],
+   [
+    "Health",
+    "4643 \u2192 4839",
+    "+1.248% coins"
+   ],
+   [
+    "Black Hole Coin Bonus",
+    "8 \u2192 9",
+    "+4.687% coins"
+   ],
+   [
+    "Health",
+    "4839 \u2192 5000",
+    "+0.987% coins"
+   ],
+   [
+    "Health",
+    "5000 \u2192 5100",
+    "+2.272% coins"
+   ],
+   [
+    "Max Recovery",
+    "200 \u2192 205",
+    "+0.193% coins"
+   ],
+   [
+    "Black Hole Coin Bonus",
+    "9 \u2192 10",
+    "+4.478% coins"
+   ],
+   [
+    "Max Recovery",
+    "205 \u2192 207",
+    "+0.076% coins"
+   ],
+   [
+    "Health",
+    "5100 \u2192 5131",
+    "+0.697% coins"
+   ],
+   [
+    "Max Recovery",
+    "207 \u2192 208",
+    "+0.038% coins"
+   ],
+   [
+    "Health",
+    "5131 \u2192 5134",
+    "+0.067% coins"
+   ],
+   [
+    "Game Speed",
+    "5 \u2192 6",
+    "+9.091% coins"
+   ],
+   [
+    "Health",
+    "5134 \u2192 5178",
+    "+0.988% coins"
+   ],
+   [
+    "Max Recovery",
+    "208 \u2192 209",
+    "+0.038% coins"
+   ],
+   [
+    "Health",
+    "5178 \u2192 5200",
+    "+0.492% coins"
+   ],
+   [
+    "Max Recovery",
+    "209 \u2192 214",
+    "+0.187% coins"
+   ],
+   [
+    "Black Hole Coin Bonus",
+    "10 \u2192 11",
+    "+4.286% coins"
+   ],
+   [
+    "Max Recovery",
+    "214 \u2192 225",
+    "+0.401% coins"
+   ],
+   [
+    "Black Hole Coin Bonus",
+    "11 \u2192 12",
+    "+4.110% coins"
+   ],
+   [
+    "Max Recovery",
+    "225 \u2192 234",
+    "+0.318% coins"
+   ]
+  ],
+  "roadmap_status": "Ready \u00b7 20 steps",
+  "live_checks": [
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS"
+  ],
+  "errors": 0,
+  "formulas": 102495
+ },
+ "mid-tournament": {
+  "banner": "\u26a0 HYPOTHETICAL SAMPLE - Mid game is loaded so you can see the tool working. Replace it with your own data (Import sheet or Player Profile).",
+  "buy": [
+   "Range",
+   "Damage",
+   "Critical Factor",
+   "Super Crit Mult",
+   "Super Crit Chance"
+  ],
+  "buy_gain": [
+   "+0.19 waves",
+   "+0.06 waves",
+   "+0.29 waves",
+   "+0.31 waves",
+   "+0.33 waves"
+  ],
+  "buy_conf": [
+   "Medium",
+   "High",
+   "High",
+   "High",
+   "High"
+  ],
+  "research": [
+   "Damage / Meter",
+   "Range",
+   "Critical Factor",
+   "Attack Speed",
+   "Super Crit Mult"
+  ],
+  "save": "\u2714 No need to save: your top-ranked upgrade (Range) is affordable now.",
+  "bottleneck": [
+   "LIMITING",
+   "not limiting",
+   "measured",
+   "IDLE SLOT"
+  ],
+  "counter": "None - top picks follow directly from your goal.",
+  "roadmap": [
+   [
+    "Range",
+    "70 \u2192 79",
+    "+1.68 waves"
+   ],
+   [
+    "Damage",
+    "2400 \u2192 2938",
+    "+31.76 waves"
+   ],
+   [
+    "Critical Factor",
+    "130 \u2192 137",
+    "+1.96 waves"
+   ],
+   [
+    "Damage",
+    "2938 \u2192 3021",
+    "+4.60 waves"
+   ],
+   [
+    "Critical Factor",
+    "137 \u2192 139",
+    "+0.54 waves"
+   ],
+   [
+    "Damage",
+    "3021 \u2192 3056",
+    "+1.93 waves"
+   ],
+   [
+    "Damage",
+    "3056 \u2192 3059",
+    "+0.17 waves"
+   ],
+   [
+    "Critical Factor",
+    "139 \u2192 140",
+    "+0.27 waves"
+   ],
+   [
+    "Damage",
+    "3059 \u2192 4698",
+    "+85.98 waves"
+   ],
+   [
+    "Damage",
+    "4698 \u2192 5100",
+    "+17.65 waves"
+   ],
+   [
+    "Super Crit Mult",
+    "70 \u2192 77",
+    "+2.14 waves"
+   ],
+   [
+    "Super Crit Chance",
+    "60 \u2192 62",
+    "+0.69 waves"
+   ],
+   [
+    "Super Crit Mult",
+    "77 \u2192 78",
+    "+0.30 waves"
+   ],
+   [
+    "Super Crit Chance",
+    "62 \u2192 63",
+    "+0.34 waves"
+   ],
+   [
+    "Damage / Meter",
+    "150 \u2192 151",
+    "+0.12 waves"
+   ],
+   [
+    "Super Crit Mult",
+    "78 \u2192 79",
+    "+0.30 waves"
+   ],
+   [
+    "Damage / Meter",
+    "151 \u2192 155",
+    "+0.48 waves"
+   ],
+   [
+    "Critical Factor",
+    "140 \u2192 141",
+    "+0.27 waves"
+   ],
+   [
+    "Super Crit Mult",
+    "79 \u2192 80",
+    "+0.30 waves"
+   ],
+   [
+    "Super Crit Chance",
+    "63 \u2192 64",
+    "+0.34 waves"
+   ]
+  ],
+  "roadmap_status": "Ready \u00b7 20 steps",
+  "live_checks": [
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS"
+  ],
+  "errors": 0,
+  "formulas": 102495
+ },
+ "mid-milestones": {
+  "banner": "\u26a0 HYPOTHETICAL SAMPLE - Mid game is loaded so you can see the tool working. Replace it with your own data (Import sheet or Player Profile).",
+  "buy": [
+   "Health",
+   "Max Recovery",
+   "Wall Health",
+   "Defense Absolute"
+  ],
+  "buy_gain": [
+   "+0.23 waves",
+   "+0.79 waves",
+   "+0.03 waves",
+   "+0.00 waves"
+  ],
+  "buy_conf": [
+   "High",
+   "High",
+   "High",
+   "High"
+  ],
+  "research": [
+   "Wall Health",
+   "Recovery Package Max",
+   "Defense %",
+   "Defense Absolute"
+  ],
+  "save": "\u2714 No need to save: your top-ranked upgrade (Health) is affordable now.",
+  "bottleneck": [
+   "not limiting",
+   "LIMITING",
+   "measured",
+   "IDLE SLOT"
+  ],
+  "counter": "None - top picks follow directly from your goal.",
+  "roadmap": [
+   [
+    "Health",
+    "2600 \u2192 4643",
+    "+352.74 waves"
+   ],
+   [
+    "Health",
+    "4643 \u2192 5000",
+    "+45.09 waves"
+   ],
+   [
+    "Health",
+    "5000 \u2192 5100",
+    "+45.59 waves"
+   ],
+   [
+    "Max Recovery",
+    "200 \u2192 208",
+    "+6.23 waves"
+   ],
+   [
+    "Health",
+    "5100 \u2192 5181",
+    "+36.76 waves"
+   ],
+   [
+    "Max Recovery",
+    "208 \u2192 209",
+    "+0.77 waves"
+   ],
+   [
+    "Health",
+    "5181 \u2192 5200",
+    "+8.60 waves"
+   ],
+   [
+    "Max Recovery",
+    "209 \u2192 251",
+    "+30.04 waves"
+   ],
+   [
+    "Health",
+    "5200 \u2192 5300",
+    "+45.14 waves"
+   ],
+   [
+    "Max Recovery",
+    "251 \u2192 252",
+    "+0.67 waves"
+   ],
+   [
+    "Wall Health",
+    "300 \u2192 302",
+    "+0.04 waves"
+   ],
+   [
+    "Max Recovery",
+    "252 \u2192 253",
+    "+0.67 waves"
+   ],
+   [
+    "Wall Health",
+    "302 \u2192 304",
+    "+0.04 waves"
+   ],
+   [
+    "Max Recovery",
+    "253 \u2192 254",
+    "+0.66 waves"
+   ],
+   [
+    "Wall Health",
+    "304 \u2192 307",
+    "+0.07 waves"
+   ],
+   [
+    "Max Recovery",
+    "254 \u2192 255",
+    "+0.66 waves"
+   ],
+   [
+    "Wall Health",
+    "307 \u2192 310",
+    "+0.07 waves"
+   ],
+   [
+    "Max Recovery",
+    "255 \u2192 256",
+    "+0.66 waves"
+   ],
+   [
+    "Wall Health",
+    "310 \u2192 313",
+    "+0.07 waves"
+   ],
+   [
+    "Max Recovery",
+    "256 \u2192 257",
+    "+0.66 waves"
+   ]
+  ],
+  "roadmap_status": "Ready \u00b7 20 steps",
+  "live_checks": [
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS"
+  ],
+  "errors": 0,
+  "formulas": 102495
+ },
+ "mid-balanced": {
+  "banner": "\u26a0 HYPOTHETICAL SAMPLE - Mid game is loaded so you can see the tool working. Replace it with your own data (Import sheet or Player Profile).",
+  "buy": [
+   "Health",
+   "Max Recovery",
+   "Wall Health",
+   "Defense Absolute"
+  ],
+  "buy_gain": [
+   "+0.025% growth",
+   "+0.083% growth",
+   "+0.003% growth",
+   "+0.000% growth"
+  ],
+  "buy_conf": [
+   "High",
+   "High",
+   "High",
+   "High"
+  ],
+  "research": [
+   "Black Hole Coin Bonus",
+   "Game Speed",
+   "Golden Tower Bonus",
+   "Wall Health",
+   "Coins / Kill Bonus"
+  ],
+  "save": "\u2714 No need to save: your top-ranked upgrade (Health) is affordable now.",
+  "bottleneck": [
+   "not limiting",
+   "LIMITING",
+   "measured",
+   "IDLE SLOT"
+  ],
+  "counter": "None - top picks follow directly from your goal.",
+  "roadmap": [
+   [
+    "Health",
+    "2600 \u2192 4643",
+    "+44.746% growth"
+   ],
+   [
+    "Health",
+    "4643 \u2192 5000",
+    "+4.840% growth"
+   ],
+   [
+    "Health",
+    "5000 \u2192 5100",
+    "+4.896% growth"
+   ],
+   [
+    "Max Recovery",
+    "200 \u2192 208",
+    "+0.655% growth"
+   ],
+   [
+    "Health",
+    "5100 \u2192 5181",
+    "+3.929% growth"
+   ],
+   [
+    "Max Recovery",
+    "208 \u2192 209",
+    "+0.080% growth"
+   ],
+   [
+    "Health",
+    "5181 \u2192 5200",
+    "+0.906% growth"
+   ],
+   [
+    "Max Recovery",
+    "209 \u2192 235",
+    "+2.019% growth"
+   ],
+   [
+    "Black Hole Coin Bonus",
+    "8 \u2192 9",
+    "+4.687% growth"
+   ],
+   [
+    "Max Recovery",
+    "235 \u2192 242",
+    "+0.512% growth"
+   ],
+   [
+    "Black Hole Coin Bonus",
+    "9 \u2192 10",
+    "+4.478% growth"
+   ],
+   [
+    "Max Recovery",
+    "242 \u2192 244",
+    "+0.144% growth"
+   ],
+   [
+    "Health",
+    "5200 \u2192 5239",
+    "+1.865% growth"
+   ],
+   [
+    "Max Recovery",
+    "244 \u2192 245",
+    "+0.072% growth"
+   ],
+   [
+    "Health",
+    "5239 \u2192 5265",
+    "+1.238% growth"
+   ],
+   [
+    "Game Speed",
+    "5 \u2192 6",
+    "+9.091% growth"
+   ],
+   [
+    "Health",
+    "5265 \u2192 5276",
+    "+0.521% growth"
+   ],
+   [
+    "Max Recovery",
+    "245 \u2192 246",
+    "+0.071% growth"
+   ],
+   [
+    "Health",
+    "5276 \u2192 5300",
+    "+1.140% growth"
+   ],
+   [
+    "Max Recovery",
+    "246 \u2192 252",
+    "+0.424% growth"
+   ]
+  ],
+  "roadmap_status": "Ready \u00b7 20 steps",
+  "live_checks": [
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS"
+  ],
+  "errors": 0,
+  "formulas": 102495
+ },
+ "adv-farming": {
+  "banner": "\u26a0 HYPOTHETICAL SAMPLE - Advanced is loaded so you can see the tool working. Replace it with your own data (Import sheet or Player Profile).",
+  "buy": [
+   "Coin Bonus +  \u2726"
+  ],
+  "buy_gain": [
+   "+1.558% coins"
+  ],
+  "buy_conf": [
+   "Medium"
+  ],
+  "research": [
+   "No modeled lab gain for this goal (see Lab Optimizer)"
+  ],
+  "save": "\u2714 No need to save: your top-ranked upgrade (Coin Bonus +) is affordable now.",
+  "bottleneck": [
+   "unknown",
+   "unknown",
+   "LIMITING",
+   "TIME-LIMITED"
+  ],
+  "counter": "None - top picks follow directly from your goal.",
+  "roadmap": [
+   [
+    "Coin Bonus +",
+    "25 \u2192 46",
+    "+35.330% coins"
+   ],
+   [
+    "Coin Bonus +",
+    "46 \u2192 50",
+    "+5.431% coins"
+   ],
+   [
+    "Coin Bonus +",
+    "50 \u2192 52",
+    "+2.628% coins"
+   ],
+   [
+    "Coin Bonus +",
+    "52 \u2192 53",
+    "+1.293% coins"
+   ],
+   [
+    "Coin Bonus +",
+    "53 \u2192 54",
+    "+1.285% coins"
+   ],
+   [
+    "Coin Bonus +",
+    "54 \u2192 55",
+    "+1.277% coins"
+   ],
+   [
+    "Coin Bonus +",
+    "55 \u2192 56",
+    "+1.269% coins"
+   ],
+   [
+    "Coin Bonus +",
+    "56 \u2192 57",
+    "+1.261% coins"
+   ],
+   [
+    "Coin Bonus +",
+    "57 \u2192 58",
+    "+1.253% coins"
+   ],
+   [
+    "Coin Bonus +",
+    "58 \u2192 59",
+    "+1.246% coins"
+   ],
+   [
+    "Coin Bonus +",
+    "59 \u2192 60",
+    "+1.238% coins"
+   ],
+   [
+    "Coin Bonus +",
+    "60 \u2192 61",
+    "+1.231% coins"
+   ],
+   [
+    "Coin Bonus +",
+    "61 \u2192 62",
+    "+1.223% coins"
+   ],
+   [
+    "Coin Bonus +",
+    "62 \u2192 63",
+    "+1.216% coins"
+   ],
+   [
+    "Coin Bonus +",
+    "63 \u2192 64",
+    "+1.209% coins"
+   ],
+   [
+    "Coin Bonus +",
+    "64 \u2192 65",
+    "+1.202% coins"
+   ],
+   [
+    "Coin Bonus +",
+    "65 \u2192 66",
+    "+1.195% coins"
+   ],
+   [
+    "Coin Bonus +",
+    "66 \u2192 67",
+    "+1.188% coins"
+   ],
+   [
+    "Coin Bonus +",
+    "67 \u2192 68",
+    "+1.181% coins"
+   ],
+   [
+    "Coin Bonus +",
+    "68 \u2192 69",
+    "+1.174% coins"
+   ]
+  ],
+  "roadmap_status": "Ready \u00b7 20 steps",
+  "live_checks": [
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS"
+  ],
+  "errors": 0,
+  "formulas": 102495
+ },
+ "adv-tournament": {
+  "banner": "\u26a0 HYPOTHETICAL SAMPLE - Advanced is loaded so you can see the tool working. Replace it with your own data (Import sheet or Player Profile).",
+  "buy": [
+   "Health",
+   "Wall Health +  \u2726",
+   "Defense Absolute",
+   "Wall Health",
+   "Health +  \u2726"
+  ],
+  "buy_gain": [
+   "+0.61 waves",
+   "+0.37 waves",
+   "+0.00 waves",
+   "+0.02 waves",
+   "+1.79 waves"
+  ],
+  "buy_conf": [
+   "High",
+   "High",
+   "High",
+   "High",
+   "High"
+  ],
+  "research": [
+   "No modeled lab gain for this goal (see Lab Optimizer)"
+  ],
+  "save": "\u2714 No need to save: your top-ranked upgrade (Health) is affordable now.",
+  "bottleneck": [
+   "not limiting",
+   "LIMITING",
+   "measured",
+   "TIME-LIMITED"
+  ],
+  "counter": "None - top picks follow directly from your goal.",
+  "roadmap": [
+   [
+    "Health",
+    "5400 \u2192 5600",
+    "+121.94 waves"
+   ],
+   [
+    "Wall Health +",
+    "20 \u2192 22",
+    "+0.75 waves"
+   ],
+   [
+    "Health",
+    "5600 \u2192 5700",
+    "+60.58 waves"
+   ],
+   [
+    "Wall Health +",
+    "22 \u2192 27",
+    "+1.86 waves"
+   ],
+   [
+    "Health",
+    "5700 \u2192 5736",
+    "+21.75 waves"
+   ],
+   [
+    "Wall Health +",
+    "27 \u2192 28",
+    "+0.37 waves"
+   ],
+   [
+    "Health",
+    "5736 \u2192 5800",
+    "+38.58 waves"
+   ],
+   [
+    "Wall Health +",
+    "28 \u2192 32",
+    "+1.48 waves"
+   ],
+   [
+    "Health",
+    "5800 \u2192 5877",
+    "+46.29 waves"
+   ],
+   [
+    "Wall Health +",
+    "32 \u2192 33",
+    "+0.37 waves"
+   ],
+   [
+    "Health",
+    "5877 \u2192 5900",
+    "+13.80 waves"
+   ],
+   [
+    "Wall Health +",
+    "33 \u2192 36",
+    "+1.11 waves"
+   ],
+   [
+    "Defense Absolute",
+    "4300 \u2192 4538",
+    "+0.02 waves"
+   ],
+   [
+    "Defense Absolute",
+    "4538 \u2192 4801",
+    "+0.03 waves"
+   ],
+   [
+    "Defense Absolute",
+    "4801 \u2192 5000",
+    "+0.02 waves"
+   ],
+   [
+    "Wall Health +",
+    "36 \u2192 37",
+    "+0.37 waves"
+   ],
+   [
+    "Health",
+    "5900 \u2192 6000",
+    "+59.84 waves"
+   ],
+   [
+    "Wall Health +",
+    "37 \u2192 40",
+    "+1.10 waves"
+   ],
+   [
+    "Wall Health",
+    "1200 \u2192 1223",
+    "+0.49 waves"
+   ],
+   [
+    "Wall Health +",
+    "40 \u2192 41",
+    "+0.37 waves"
+   ]
+  ],
+  "roadmap_status": "Ready \u00b7 20 steps",
+  "live_checks": [
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS"
+  ],
+  "errors": 0,
+  "formulas": 102495
+ },
+ "adv-milestones": {
+  "banner": "\u26a0 HYPOTHETICAL SAMPLE - Advanced is loaded so you can see the tool working. Replace it with your own data (Import sheet or Player Profile).",
+  "buy": [
+   "Health",
+   "Damage",
+   "Wall Health +  \u2726",
+   "Critical Factor +  \u2726",
+   "Defense Absolute"
+  ],
+  "buy_gain": [
+   "+0.31 waves",
+   "+0.06 waves",
+   "+0.19 waves",
+   "+0.46 waves",
+   "+0.00 waves"
+  ],
+  "buy_conf": [
+   "Low",
+   "Low",
+   "Low",
+   "Low",
+   "Low"
+  ],
+  "research": [
+   "No modeled lab gain for this goal (see Lab Optimizer)"
+  ],
+  "save": "\u2714 No need to save: your top-ranked upgrade (Health) is affordable now.",
+  "bottleneck": [
+   "unknown",
+   "unknown",
+   "measured",
+   "TIME-LIMITED"
+  ],
+  "counter": "None - top picks follow directly from your goal.",
+  "roadmap": [
+   [
+    "Health",
+    "5400 \u2192 5500",
+    "+31.35 waves"
+   ],
+   [
+    "Damage",
+    "5200 \u2192 5400",
+    "+11.40 waves"
+   ],
+   [
+    "Health",
+    "5500 \u2192 5600",
+    "+31.21 waves"
+   ],
+   [
+    "Wall Health +",
+    "20 \u2192 22",
+    "+0.38 waves"
+   ],
+   [
+    "Damage",
+    "5400 \u2192 5500",
+    "+5.43 waves"
+   ],
+   [
+    "Health",
+    "5600 \u2192 5700",
+    "+31.08 waves"
+   ],
+   [
+    "Wall Health +",
+    "22 \u2192 24",
+    "+0.38 waves"
+   ],
+   [
+    "Critical Factor +",
+    "30 \u2192 31",
+    "+0.46 waves"
+   ],
+   [
+    "Wall Health +",
+    "24 \u2192 26",
+    "+0.38 waves"
+   ],
+   [
+    "Critical Factor +",
+    "31 \u2192 32",
+    "+0.46 waves"
+   ],
+   [
+    "Wall Health +",
+    "26 \u2192 27",
+    "+0.19 waves"
+   ],
+   [
+    "Damage",
+    "5500 \u2192 5600",
+    "+5.27 waves"
+   ],
+   [
+    "Health",
+    "5700 \u2192 5736",
+    "+11.16 waves"
+   ],
+   [
+    "Wall Health +",
+    "27 \u2192 28",
+    "+0.19 waves"
+   ],
+   [
+    "Health",
+    "5736 \u2192 5800",
+    "+19.79 waves"
+   ],
+   [
+    "Critical Factor +",
+    "32 \u2192 33",
+    "+0.45 waves"
+   ],
+   [
+    "Wall Health +",
+    "28 \u2192 30",
+    "+0.38 waves"
+   ],
+   [
+    "Critical Factor +",
+    "33 \u2192 34",
+    "+0.45 waves"
+   ],
+   [
+    "Wall Health +",
+    "30 \u2192 31",
+    "+0.19 waves"
+   ],
+   [
+    "Critical Factor +",
+    "34 \u2192 35",
+    "+0.45 waves"
+   ]
+  ],
+  "roadmap_status": "Ready \u00b7 20 steps",
+  "live_checks": [
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS"
+  ],
+  "errors": 0,
+  "formulas": 102495
+ },
+ "adv-balanced": {
+  "banner": "\u26a0 HYPOTHETICAL SAMPLE - Advanced is loaded so you can see the tool working. Replace it with your own data (Import sheet or Player Profile).",
+  "buy": [
+   "Health",
+   "Damage",
+   "Wall Health +  \u2726",
+   "Critical Factor +  \u2726",
+   "Coin Bonus +  \u2726"
+  ],
+  "buy_gain": [
+   "+0.013% growth",
+   "+0.002% growth",
+   "+0.008% growth",
+   "+0.019% growth",
+   "+1.558% growth"
+  ],
+  "buy_conf": [
+   "Low",
+   "Low",
+   "Low",
+   "Low",
+   "Medium"
+  ],
+  "research": [
+   "No modeled lab gain for this goal (see Lab Optimizer)"
+  ],
+  "save": "\u2714 No need to save: your top-ranked upgrade (Health) is affordable now.",
+  "bottleneck": [
+   "unknown",
+   "unknown",
+   "measured",
+   "TIME-LIMITED"
+  ],
+  "counter": "None - top picks follow directly from your goal.",
+  "roadmap": [
+   [
+    "Health",
+    "5400 \u2192 5500",
+    "+1.315% growth"
+   ],
+   [
+    "Damage",
+    "5200 \u2192 5400",
+    "+0.476% growth"
+   ],
+   [
+    "Health",
+    "5500 \u2192 5600",
+    "+1.309% growth"
+   ],
+   [
+    "Wall Health +",
+    "20 \u2192 22",
+    "+0.016% growth"
+   ],
+   [
+    "Damage",
+    "5400 \u2192 5500",
+    "+0.227% growth"
+   ],
+   [
+    "Health",
+    "5600 \u2192 5700",
+    "+1.303% growth"
+   ],
+   [
+    "Wall Health +",
+    "22 \u2192 24",
+    "+0.016% growth"
+   ],
+   [
+    "Critical Factor +",
+    "30 \u2192 31",
+    "+0.019% growth"
+   ],
+   [
+    "Wall Health +",
+    "24 \u2192 26",
+    "+0.016% growth"
+   ],
+   [
+    "Critical Factor +",
+    "31 \u2192 32",
+    "+0.019% growth"
+   ],
+   [
+    "Wall Health +",
+    "26 \u2192 27",
+    "+0.008% growth"
+   ],
+   [
+    "Damage",
+    "5500 \u2192 5600",
+    "+0.220% growth"
+   ],
+   [
+    "Health",
+    "5700 \u2192 5736",
+    "+0.466% growth"
+   ],
+   [
+    "Wall Health +",
+    "27 \u2192 28",
+    "+0.008% growth"
+   ],
+   [
+    "Health",
+    "5736 \u2192 5800",
+    "+0.828% growth"
+   ],
+   [
+    "Critical Factor +",
+    "32 \u2192 33",
+    "+0.019% growth"
+   ],
+   [
+    "Wall Health +",
+    "28 \u2192 30",
+    "+0.016% growth"
+   ],
+   [
+    "Critical Factor +",
+    "33 \u2192 34",
+    "+0.019% growth"
+   ],
+   [
+    "Wall Health +",
+    "30 \u2192 31",
+    "+0.008% growth"
+   ],
+   [
+    "Critical Factor +",
+    "34 \u2192 35",
+    "+0.019% growth"
+   ]
+  ],
+  "roadmap_status": "Ready \u00b7 20 steps",
+  "live_checks": [
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS"
+  ],
+  "errors": 0,
+  "formulas": 102495
+ },
+ "mid-no-coins": {
+  "banner": "\u26a0 HYPOTHETICAL SAMPLE - Mid game is loaded so you can see the tool working. Replace it with your own data (Import sheet or Player Profile).",
+  "buy": [
+   "Nothing affordable has a modeled gain for this goal"
+  ],
+  "buy_gain": [],
+  "buy_conf": [],
+  "research": [
+   "Black Hole Coin Bonus",
+   "Game Speed",
+   "Golden Tower Bonus",
+   "Coins / Kill Bonus",
+   "Wall Health"
+  ],
+  "save": "\u25c6 Save for Health: 129.96M more coins (~<1m).",
+  "bottleneck": [
+   "not limiting",
+   "LIMITING",
+   "measured",
+   "IDLE SLOT"
+  ],
+  "counter": "None - top picks follow directly from your goal.",
+  "roadmap": [
+   [
+    "Health",
+    "2600 \u2192 4643",
+    "+18.987% coins"
+   ],
+   [
+    "Health",
+    "4643 \u2192 4839",
+    "+1.248% coins"
+   ],
+   [
+    "Black Hole Coin Bonus",
+    "8 \u2192 9",
+    "+4.687% coins"
+   ],
+   [
+    "Health",
+    "4839 \u2192 5000",
+    "+0.987% coins"
+   ],
+   [
+    "Health",
+    "5000 \u2192 5100",
+    "+2.272% coins"
+   ],
+   [
+    "Max Recovery",
+    "200 \u2192 205",
+    "+0.193% coins"
+   ],
+   [
+    "Black Hole Coin Bonus",
+    "9 \u2192 10",
+    "+4.478% coins"
+   ],
+   [
+    "Max Recovery",
+    "205 \u2192 207",
+    "+0.076% coins"
+   ],
+   [
+    "Health",
+    "5100 \u2192 5131",
+    "+0.697% coins"
+   ],
+   [
+    "Max Recovery",
+    "207 \u2192 208",
+    "+0.038% coins"
+   ],
+   [
+    "Health",
+    "5131 \u2192 5134",
+    "+0.067% coins"
+   ],
+   [
+    "Game Speed",
+    "5 \u2192 6",
+    "+9.091% coins"
+   ],
+   [
+    "Health",
+    "5134 \u2192 5178",
+    "+0.988% coins"
+   ],
+   [
+    "Max Recovery",
+    "208 \u2192 209",
+    "+0.038% coins"
+   ],
+   [
+    "Health",
+    "5178 \u2192 5200",
+    "+0.492% coins"
+   ],
+   [
+    "Max Recovery",
+    "209 \u2192 214",
+    "+0.187% coins"
+   ],
+   [
+    "Black Hole Coin Bonus",
+    "10 \u2192 11",
+    "+4.286% coins"
+   ],
+   [
+    "Max Recovery",
+    "214 \u2192 225",
+    "+0.401% coins"
+   ],
+   [
+    "Black Hole Coin Bonus",
+    "11 \u2192 12",
+    "+4.110% coins"
+   ],
+   [
+    "Max Recovery",
+    "225 \u2192 234",
+    "+0.318% coins"
+   ]
+  ],
+  "roadmap_status": "Ready \u00b7 20 steps",
+  "live_checks": [
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS"
+  ],
+  "errors": 0,
+  "formulas": 102495
+ },
+ "mid-slots-full-balanced": {
+  "banner": "\u26a0 HYPOTHETICAL SAMPLE - Mid game is loaded so you can see the tool working. Replace it with your own data (Import sheet or Player Profile).",
+  "buy": [
+   "Health",
+   "Max Recovery",
+   "Wall Health",
+   "Defense Absolute"
+  ],
+  "buy_gain": [
+   "+0.025% growth",
+   "+0.083% growth",
+   "+0.003% growth",
+   "+0.000% growth"
+  ],
+  "buy_conf": [
+   "High",
+   "High",
+   "High",
+   "High"
+  ],
+  "research": [
+   "Black Hole Coin Bonus",
+   "Game Speed",
+   "Golden Tower Bonus",
+   "Wall Health",
+   "Coins / Kill Bonus"
+  ],
+  "save": "\u2714 No need to save: your top-ranked upgrade (Health) is affordable now.",
+  "bottleneck": [
+   "not limiting",
+   "LIMITING",
+   "measured",
+   "TIME-LIMITED"
+  ],
+  "counter": "None - top picks follow directly from your goal.",
+  "roadmap": [
+   [
+    "Health",
+    "2600 \u2192 4643",
+    "+44.746% growth"
+   ],
+   [
+    "Health",
+    "4643 \u2192 5000",
+    "+4.840% growth"
+   ],
+   [
+    "Health",
+    "5000 \u2192 5100",
+    "+4.896% growth"
+   ],
+   [
+    "Max Recovery",
+    "200 \u2192 208",
+    "+0.655% growth"
+   ],
+   [
+    "Health",
+    "5100 \u2192 5181",
+    "+3.929% growth"
+   ],
+   [
+    "Max Recovery",
+    "208 \u2192 209",
+    "+0.080% growth"
+   ],
+   [
+    "Health",
+    "5181 \u2192 5200",
+    "+0.906% growth"
+   ],
+   [
+    "Max Recovery",
+    "209 \u2192 235",
+    "+2.019% growth"
+   ],
+   [
+    "Black Hole Coin Bonus",
+    "8 \u2192 9",
+    "+4.687% growth"
+   ],
+   [
+    "Max Recovery",
+    "235 \u2192 242",
+    "+0.512% growth"
+   ],
+   [
+    "Black Hole Coin Bonus",
+    "9 \u2192 10",
+    "+4.478% growth"
+   ],
+   [
+    "Max Recovery",
+    "242 \u2192 244",
+    "+0.144% growth"
+   ],
+   [
+    "Health",
+    "5200 \u2192 5239",
+    "+1.865% growth"
+   ],
+   [
+    "Max Recovery",
+    "244 \u2192 245",
+    "+0.072% growth"
+   ],
+   [
+    "Health",
+    "5239 \u2192 5265",
+    "+1.238% growth"
+   ],
+   [
+    "Game Speed",
+    "5 \u2192 6",
+    "+9.091% growth"
+   ],
+   [
+    "Health",
+    "5265 \u2192 5276",
+    "+0.521% growth"
+   ],
+   [
+    "Max Recovery",
+    "245 \u2192 246",
+    "+0.071% growth"
+   ],
+   [
+    "Health",
+    "5276 \u2192 5300",
+    "+1.140% growth"
+   ],
+   [
+    "Max Recovery",
+    "246 \u2192 252",
+    "+0.424% growth"
+   ]
+  ],
+  "roadmap_status": "Ready \u00b7 20 steps",
+  "live_checks": [
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS"
+  ],
+  "errors": 0,
+  "formulas": 102495
+ },
+ "mid-unknown-bottleneck": {
+  "banner": "\u26a0 HYPOTHETICAL SAMPLE - Mid game is loaded so you can see the tool working. Replace it with your own data (Import sheet or Player Profile).",
+  "buy": [
+   "Range",
+   "Health",
+   "Damage",
+   "Critical Factor",
+   "Max Recovery"
+  ],
+  "buy_gain": [
+   "+0.009% coins",
+   "+0.006% coins",
+   "+0.003% coins",
+   "+0.014% coins",
+   "+0.019% coins"
+  ],
+  "buy_conf": [
+   "Low",
+   "Low",
+   "Low",
+   "Low",
+   "Low"
+  ],
+  "research": [
+   "Black Hole Coin Bonus",
+   "Game Speed",
+   "Golden Tower Bonus",
+   "Coins / Kill Bonus",
+   "Coins / Wave"
+  ],
+  "save": "\u2714 No need to save: your top-ranked upgrade (Range) is affordable now.",
+  "bottleneck": [
+   "unknown",
+   "unknown",
+   "measured",
+   "IDLE SLOT"
+  ],
+  "counter": "Farming is selected but the top buy is a combat stat: your runs end by death, so more waves earn more coins than the next economy upgrade.",
+  "roadmap": [
+   [
+    "Range",
+    "70 \u2192 79",
+    "+0.080% coins"
+   ],
+   [
+    "Health",
+    "2600 \u2192 3341",
+    "+3.829% coins"
+   ],
+   [
+    "Damage",
+    "2400 \u2192 2684",
+    "+0.821% coins"
+   ],
+   [
+    "Health",
+    "3341 \u2192 3416",
+    "+0.333% coins"
+   ],
+   [
+    "Damage",
+    "2684 \u2192 2711",
+    "+0.076% coins"
+   ],
+   [
+    "Health",
+    "3416 \u2192 3422",
+    "+0.026% coins"
+   ],
+   [
+    "Damage",
+    "2711 \u2192 2714",
+    "+0.008% coins"
+   ],
+   [
+    "Health",
+    "3422 \u2192 3423",
+    "+0.004% coins"
+   ],
+   [
+    "Damage",
+    "2714 \u2192 2715",
+    "+0.003% coins"
+   ],
+   [
+    "Health",
+    "3423 \u2192 3424",
+    "+0.004% coins"
+   ],
+   [
+    "Damage",
+    "2715 \u2192 2716",
+    "+0.003% coins"
+   ],
+   [
+    "Health",
+    "3424 \u2192 3425",
+    "+0.004% coins"
+   ],
+   [
+    "Damage",
+    "2716 \u2192 2717",
+    "+0.003% coins"
+   ],
+   [
+    "Health",
+    "3425 \u2192 3426",
+    "+0.004% coins"
+   ],
+   [
+    "Damage",
+    "2717 \u2192 2718",
+    "+0.003% coins"
+   ],
+   [
+    "Health",
+    "3426 \u2192 3428",
+    "+0.009% coins"
+   ],
+   [
+    "Damage",
+    "2718 \u2192 2720",
+    "+0.006% coins"
+   ],
+   [
+    "Health",
+    "3428 \u2192 3430",
+    "+0.009% coins"
+   ],
+   [
+    "Damage",
+    "2720 \u2192 2722",
+    "+0.006% coins"
+   ],
+   [
+    "Health",
+    "3430 \u2192 3432",
+    "+0.009% coins"
+   ]
+  ],
+  "roadmap_status": "Ready \u00b7 20 steps",
+  "live_checks": [
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS"
+  ],
+  "errors": 0,
+  "formulas": 102495
+ },
+ "mid-farm-time-limited": {
+  "banner": "\u26a0 HYPOTHETICAL SAMPLE - Mid game is loaded so you can see the tool working. Replace it with your own data (Import sheet or Player Profile).",
+  "buy": [
+   "Nothing affordable has a modeled gain for this goal"
+  ],
+  "buy_gain": [],
+  "buy_conf": [],
+  "research": [
+   "Black Hole Coin Bonus",
+   "Game Speed",
+   "Golden Tower Bonus",
+   "Coins / Kill Bonus",
+   "Coins / Wave"
+  ],
+  "save": "Nothing to rank yet.",
+  "bottleneck": [
+   "not limiting",
+   "LIMITING",
+   "LIMITING",
+   "IDLE SLOT"
+  ],
+  "counter": "None - top picks follow directly from your goal.",
+  "roadmap": [
+   [
+    "Black Hole Coin Bonus",
+    "8 \u2192 9",
+    "+4.687% coins"
+   ],
+   [
+    "Black Hole Coin Bonus",
+    "9 \u2192 10",
+    "+4.478% coins"
+   ],
+   [
+    "Game Speed",
+    "5 \u2192 6",
+    "+9.091% coins"
+   ],
+   [
+    "Black Hole Coin Bonus",
+    "10 \u2192 11",
+    "+4.286% coins"
+   ],
+   [
+    "Black Hole Coin Bonus",
+    "11 \u2192 12",
+    "+4.110% coins"
+   ],
+   [
+    "Game Speed",
+    "6 \u2192 7",
+    "+9.821% coins"
+   ],
+   [
+    "Black Hole Coin Bonus",
+    "12 \u2192 13",
+    "+3.947% coins"
+   ],
+   [
+    "Black Hole Coin Bonus",
+    "13 \u2192 14",
+    "+3.797% coins"
+   ],
+   [
+    "Black Hole Coin Bonus",
+    "14 \u2192 15",
+    "+3.659% coins"
+   ],
+   [
+    "Black Hole Coin Bonus",
+    "15 \u2192 16",
+    "+3.529% coins"
+   ],
+   [
+    "Black Hole Coin Bonus",
+    "16 \u2192 17",
+    "+3.409% coins"
+   ],
+   [
+    "Black Hole Coin Bonus",
+    "17 \u2192 18",
+    "+3.297% coins"
+   ],
+   [
+    "Black Hole Coin Bonus",
+    "18 \u2192 19",
+    "+3.191% coins"
+   ],
+   [
+    "Golden Tower Bonus",
+    "10 \u2192 11",
+    "+0.793% coins"
+   ],
+   [
+    "Black Hole Coin Bonus",
+    "19 \u2192 20",
+    "+3.093% coins"
+   ],
+   [
+    "Golden Tower Bonus",
+    "11 \u2192 12",
+    "+0.787% coins"
+   ],
+   [
+    "Golden Tower Bonus",
+    "12 \u2192 13",
+    "+0.781% coins"
+   ],
+   [
+    "Golden Tower Bonus",
+    "13 \u2192 14",
+    "+0.775% coins"
+   ],
+   [
+    "Golden Tower Bonus",
+    "14 \u2192 15",
+    "+0.769% coins"
+   ],
+   [
+    "Golden Tower Bonus",
+    "15 \u2192 16",
+    "+0.763% coins"
+   ]
+  ],
+  "roadmap_status": "Ready \u00b7 20 steps",
+  "live_checks": [
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS"
+  ],
+  "errors": 0,
+  "formulas": 102495
+ },
+ "mid-tournament-no-wave": {
+  "banner": "\u26a0 HYPOTHETICAL SAMPLE - Mid game is loaded so you can see the tool working. Replace it with your own data (Import sheet or Player Profile).",
+  "buy": [
+   "Enter your typical tournament wave on Player Profile."
+  ],
+  "buy_gain": [],
+  "buy_conf": [],
+  "research": [
+   "Enter your typical tournament wave on Player Profile."
+  ],
+  "save": "Nothing to rank yet.",
+  "bottleneck": [
+   "LIMITING",
+   "not limiting",
+   "measured",
+   "IDLE SLOT"
+  ],
+  "counter": "None - top picks follow directly from your goal.",
+  "roadmap": [],
+  "roadmap_status": "No modeled gains left",
+  "live_checks": [
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS"
+  ],
+  "errors": 0,
+  "formulas": 102495
+ },
+ "mid-no-income": {
+  "banner": "\u26a0 HYPOTHETICAL SAMPLE - Mid game is loaded so you can see the tool working. Replace it with your own data (Import sheet or Player Profile).",
+  "buy": [
+   "Health",
+   "Max Recovery",
+   "Wall Health",
+   "Defense Absolute"
+  ],
+  "buy_gain": [
+   "+0.012% coins",
+   "+0.039% coins",
+   "+0.001% coins",
+   "+0.000% coins"
+  ],
+  "buy_conf": [
+   "High",
+   "High",
+   "High",
+   "High"
+  ],
+  "research": [
+   "Black Hole Coin Bonus",
+   "Game Speed",
+   "Golden Tower Bonus",
+   "Coins / Kill Bonus",
+   "Wall Health"
+  ],
+  "save": "\u2714 No need to save: your top-ranked upgrade (Health) is affordable now.",
+  "bottleneck": [
+   "not limiting",
+   "LIMITING",
+   "unknown",
+   "IDLE SLOT"
+  ],
+  "counter": "Farming is selected but the top buy is a combat stat: your runs end by death, so more waves earn more coins than the next economy upgrade.",
+  "roadmap": [],
+  "roadmap_status": "Enter coins per hour",
+  "live_checks": [
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS",
+   "PASS"
+  ],
+  "errors": 0,
+  "formulas": 102495
+ }
+}
